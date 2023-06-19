@@ -12,18 +12,17 @@ Location of Files:
 - /Jupyter\ Notebooks/part_1_mars_news.ipynb
 - /Jupyter\ Notebooks/part_2_mars_weather.ipynb
 
-**Jupyter Notebooks**:
-
+**Output**:
 - /Output/df_mars_data.csv
 
 Gitignore:
-/.gitignore
+- /.gitignore
 
 License:
-/LICENSE
+- /LICENSE
 
 Readme:
-/README.md
+- /README.md
 
 ---
 
