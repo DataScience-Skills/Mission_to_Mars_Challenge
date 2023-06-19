@@ -3,7 +3,7 @@ Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 11
 
 This project shows how to request, analyze, and visualize data received from the Mars rover using webscraping technnqiues.
 
-The files can be found here:
+## The files can be found here:
 
 Location of Files:
 
@@ -12,24 +12,18 @@ Location of Files:
 - /Jupyter\ Notebooks/part_1_mars_news.ipynb
 - /Jupyter\ Notebooks/part_2_mars_weather.ipynb
 
-/Data Modeling/QuickDBD-export.png
-/Data Modeling/QuickDBD-export.pdf
-Data Engineering:
+**Jupyter Notebooks**:
 
-/Data_Engineering/table_schemata.sql
-Data Analysis:
+- /Output/df_mars_data.csv
 
-/Data_Analysis/queries.sql
 Gitignore:
-
 /.gitignore
+
 License:
-
 /LICENSE
+
 Readme:
-
 /README.md
-
 
 ---
 
