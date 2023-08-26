@@ -1,5 +1,8 @@
 # Mars Web Scraping and Data Analysis
 
+![Mars Atmospheric Pressure](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News/blob/main/images/mars-atmospheric-pressure.png)
+![Mars Minimum Temperature](https://github.com/robert-z-lehr/Scraping-and-Analyzing-Mars-News/blob/main/images/mars-daily-minimum-temperature.png)
+
 ## Background
 Information is webscraped from the [Mars News website](https://static.bc-edx.com/data/web/mars_news/index.html#) and [Mars Temperature Data webste](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
